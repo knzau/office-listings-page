@@ -12,7 +12,8 @@ This is a Next.js and Tailwind CSS app that displays a listing of office locatio
 
 To get started with this app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/officelocations.git`
+1. Clone the repository: `git clone https://github.com/knzau/office-listings-page.git`
+2. Change Directory to project: `cd office-listings-page`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
